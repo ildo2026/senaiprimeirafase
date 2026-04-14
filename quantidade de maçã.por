@@ -10,8 +10,6 @@ programa {
     }senao se(quantidaDeMaca >= 12){
     precoDaMaca = 0.25
 
-    }senao{
-      escreva("digite um numero valido: ")
     }valorTotal = precoDaMaca * quantidaDeMaca
     escreva("valor total da compra" + valorTotal)
     }
